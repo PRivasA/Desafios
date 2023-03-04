@@ -1,0 +1,15 @@
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/obj/Debug/net6.0/Puntuacion_jugador.csproj.AssemblyReference.cache
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/obj/Debug/net6.0/Puntuacion_jugador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/obj/Debug/net6.0/Puntuacion_jugador.AssemblyInfoInputs.cache
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/obj/Debug/net6.0/Puntuacion_jugador.AssemblyInfo.cs
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/obj/Debug/net6.0/Puntuacion_jugador.csproj.CoreCompileInputs.cache
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/bin/Debug/net6.0/Puntuacion_jugador
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/bin/Debug/net6.0/Puntuacion_jugador.deps.json
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/bin/Debug/net6.0/Puntuacion_jugador.runtimeconfig.json
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/bin/Debug/net6.0/Puntuacion_jugador.dll
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/bin/Debug/net6.0/Puntuacion_jugador.pdb
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/obj/Debug/net6.0/Puntuacion_jugador.dll
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/obj/Debug/net6.0/refint/Puntuacion_jugador.dll
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/obj/Debug/net6.0/Puntuacion_jugador.pdb
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/obj/Debug/net6.0/Puntuacion_jugador.genruntimeconfig.cache
+/Users/emilio/Documents/Desafios Programación/Puntuacion_jugador/obj/Debug/net6.0/ref/Puntuacion_jugador.dll

@@ -1,0 +1,15 @@
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/bin/Debug/net6.0/Ingreso_meses
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/bin/Debug/net6.0/Ingreso_meses.deps.json
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/bin/Debug/net6.0/Ingreso_meses.runtimeconfig.json
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/bin/Debug/net6.0/Ingreso_meses.dll
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/bin/Debug/net6.0/Ingreso_meses.pdb
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/obj/Debug/net6.0/Ingreso_meses.csproj.AssemblyReference.cache
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/obj/Debug/net6.0/Ingreso_meses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/obj/Debug/net6.0/Ingreso_meses.AssemblyInfoInputs.cache
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/obj/Debug/net6.0/Ingreso_meses.AssemblyInfo.cs
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/obj/Debug/net6.0/Ingreso_meses.csproj.CoreCompileInputs.cache
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/obj/Debug/net6.0/Ingreso_meses.dll
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/obj/Debug/net6.0/refint/Ingreso_meses.dll
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/obj/Debug/net6.0/Ingreso_meses.pdb
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/obj/Debug/net6.0/Ingreso_meses.genruntimeconfig.cache
+/Users/emilio/Documents/Desafios Programación/Ingreso_meses/obj/Debug/net6.0/ref/Ingreso_meses.dll
